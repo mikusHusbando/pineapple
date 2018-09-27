@@ -18,8 +18,10 @@ class Plugin(object):
         
         #wenn message_object.content hat !so und so
         
+        #!supplied docs weed cash meth cocaine bunker
+        #!sold docs weed cash meth cocaine bunker
         
-        !supplied docs weed cash meth cocaine bunker
-        !sold docs weed cash meth cocaine bunker
-        !pause {docs weed cash meth cocaine bunker}
-        !resume {docs weed cash meth cocaine bunker}
+        #!pause {docs weed cash meth cocaine bunker}
+        #!resume {docs weed cash meth cocaine bunker}
+        
+        #!remind 1-240
